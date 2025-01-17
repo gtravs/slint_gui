@@ -1,0 +1,6 @@
+[submodule "app-componts"]
+	path = app-componts
+	url = https://github.com/gtravs/app-componts.git
+[submodule "app-main"]
+	path = app-main
+	url = https://github.com/gtravs/app-main.git

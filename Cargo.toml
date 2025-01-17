@@ -1,0 +1,8 @@
+[workspace]
+members = [
+"app-main","app-componts"
+]
+
+[workspace.dependencies]
+tokio = {version = "1.43",features = ["full"]}
+slint = { version = "1.9.2", features = ["renderer-skia-opengl"] }
